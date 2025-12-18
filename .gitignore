@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# API Keys & Secrets
+kaggle.json
+.env
+*.key
+
+# Model files (too large for GitHub)
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
